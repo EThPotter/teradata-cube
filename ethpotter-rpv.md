@@ -9,7 +9,7 @@
 
 ## Attractions for Locals
 
-- Alligator pit
+- Alligator pit  :crocodile:
 - Spider beach
 - Coyote corrall
 
