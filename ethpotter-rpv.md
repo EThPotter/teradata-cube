@@ -2,6 +2,9 @@
 
 ## Restaurants
 
+- Cajun Alligator
+- Texas Ruby Red
+
 ## Attractions for Tourists
 
 - Miseryland
